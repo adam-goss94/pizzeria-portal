@@ -16,7 +16,7 @@ import NewOrder from './components/views/NewOrder/NewOrder';
 
 function App() {
   return (
-    <BrowserRouter basename={'/panel'}>
+    <BrowserRouter>
       <MainLayout>
         <Switch>
           <Route exact path={process.env.PUBLIC_URL + '/'} component={Homepage} />
