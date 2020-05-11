@@ -24,13 +24,13 @@
   - zawiera wszystkie informację dotyczące rezerwacji
   - umożliwia edycję i zapisanie zmian
 
-- `/tables/booking/:new`
+- `/tables/booking/new`
   - analogicznie do powyższej, bez początkowych informacji
 
 - `/tables/events/:id`
   - analogicznie do powyższej, bez początkowych informacji
 
-- `/tables/events/:new`
+- `/tables/events/new`
   - analogicznie do powyższej, bez początkowych informacji
 
 # Widok kelnera
