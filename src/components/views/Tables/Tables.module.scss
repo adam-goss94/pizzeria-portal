@@ -2,4 +2,21 @@
 
 .component {
   padding: $base-size;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.dataPicker {
+  margin: auto;
+}
+
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center;
+
+    .button {
+    margin: 20px 10px;
+  }
 }
